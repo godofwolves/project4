@@ -1,2 +1,9 @@
-h1   {color: black;}
-p    {color: blue;}
+h1   {
+	color: black;
+	}
+p    {
+	color: black;
+	}
+	body {
+    background-color: red;
+}
