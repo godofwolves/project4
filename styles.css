@@ -6,4 +6,8 @@ p    {
 	}
 	body {
     background-color: red;
+
+	audio { 
+   display: none;
 }
+	<embed src="dylans playlist/Bully - Shinedown (lyrics).mp3">
